@@ -1,0 +1,19 @@
+.input_cont {
+    display: flex;
+    flex-direction: column;
+    gap: .4em;
+}
+
+.input_cont input {
+    padding: .8em;
+    border: none;
+    outline: none;
+}
+.input_cont input::placeholder {
+    color: #7b7b7b;
+}
+
+.input_cont label{
+    font-weight: bold;
+    cursor: text;
+}

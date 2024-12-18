@@ -23,6 +23,7 @@ export default function App() {
           <Route path='/projects' element={<Projects />} />
           <Route path='/contact' element={<Contact />} />
           <Route path='/company' element={<Company />} />
+          <Route path='/newproject' element={<NewProject btnText="Criar Projeto" />} />
 
         </Routes>
       </Container>

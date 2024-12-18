@@ -1,0 +1,12 @@
+.project_container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+    width: 400px;
+}
+
+.project_container p{
+    color: #7b7b7b;
+}

@@ -1,0 +1,18 @@
+.select_cont {
+    display: flex;
+    flex-direction: column;
+    gap: .4em;
+}
+
+.select_cont select {
+    padding: .8em;
+    border: none;
+    outline: none;
+    overflow: none;
+}
+
+
+.select_cont label{
+    font-weight: bold;
+    cursor: text;
+}

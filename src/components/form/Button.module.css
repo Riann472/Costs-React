@@ -1,0 +1,16 @@
+
+
+.button input{
+    padding: .8em;
+    border: none;
+    background-color: #222;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: color .2s ease-in-out;
+}
+
+.button input:hover{
+    color: #ffbb33;
+}
+
